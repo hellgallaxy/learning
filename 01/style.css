@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Semibold;
+    src: url(font/static/WorkSans-SemiBold.ttf);
+
+}
+div {background-color: rgb(231, 205, 255);
+}
+
+h1 {
+    font-family: Semibold;
+    color: rgb(169, 151, 172);
+    text-align:center ;
+}
